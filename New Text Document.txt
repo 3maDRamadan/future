@@ -1,0 +1,36 @@
+<a href="">read more</a>
+555
+269
+
+
+<i class="fa-solid fa-car-burst"></i>
+
+
+img ///// 555px ..... 574px
+h5/*******  TRANSPORTATION  *********/
+
+h2//////Tesla electric trucks
+
+p////////Tesla’s Semi is off to a promising start, despite there being no official pricing information available yet
+
+
+text///////// 
+
+Tesla has said that its
+ cost of operation for the Semi 
+will help shippers save money on a per
+ mile basis right away, and that’s likely
+ meant to help lessen the impact of sticker 
+shock when it finally does reveal the upfront
+ price. But as I mentioned with the Walmart pilot,
+ which will involve a trial of 15 Semi trucks across
+ the U.S. and Canada, there’s additional
+ value in helping these major shippers meet their green targets.
+
+
+/////////.btn
+
+<i class="fa-solid fa-quote-left"></i>
+
+<a target="_blank" href="https://www.facebook.com/TeMo0o29">
+
